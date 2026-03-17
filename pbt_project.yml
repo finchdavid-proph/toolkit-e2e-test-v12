@@ -1,4 +1,4 @@
-name: toolkit_e2e_v11
+name: toolkit_e2e_v12
 description: ''
 version: '2'
 author: ''
@@ -48,7 +48,7 @@ sqlMacros:
 sqlSeeds: {}
 sqlSources:
   .prophecy/metadata/sqlsources/toolkit_e2e_v11_source:
-    name: toolkit_e2e_v11_source
+    name: toolkit_e2e_v12_source
     description: null
     author: ''
     files:
