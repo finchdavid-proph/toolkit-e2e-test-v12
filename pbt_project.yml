@@ -132,7 +132,7 @@ sqlSources:
       tableType: table
 sqlUnreferencedSources: {}
 sqlPipeline:
-  name: sqlPipeline
+  name: medium__m_ADC_GUEST_APPOINTMENT
   description: null
   author: ''
   createdAt: '2026-01-01 00:00:00'
