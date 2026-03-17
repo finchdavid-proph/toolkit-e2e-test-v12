@@ -1,6 +1,6 @@
 name: toolkit_e2e_v12
 description: ''
-version: '2'
+version: 2-SNAPSHOT
 author: ''
 language: sql
 buildSystem: ''
