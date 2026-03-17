@@ -1,7 +1,7 @@
 ---
 version: 2
 sources:
-- name: "toolkit_e2e_v11_source"
+- name: "toolkit_e2e_v12_source"
   tables:
   - name: "sq_v_adgapd1"
     columns:

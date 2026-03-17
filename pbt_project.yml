@@ -47,7 +47,7 @@ sqlMacros:
     createdAt: '2026-01-01 00:00:00'
 sqlSeeds: {}
 sqlSources:
-  .prophecy/metadata/sqlsources/toolkit_e2e_v11_source:
+  .prophecy/metadata/sqlsources/toolkit_e2e_v12_source:
     name: toolkit_e2e_v12_source
     description: null
     author: ''
