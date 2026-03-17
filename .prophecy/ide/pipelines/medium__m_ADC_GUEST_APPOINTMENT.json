@@ -16,8 +16,7 @@
       "S-pFVF3z5wDS2uVuTAP8N$$yHhb4UlrHCNekCXI-YUWF": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql",
       "3LzGYdWUNLx-sKTX6XEVf$$uz3WAq4DeN14VbqE-G2Vk": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql",
       "yuWS1R2NL5KvM-Wnthwko$$gOSH4LXl2rqtfAVN54Ru9": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql",
-      "-DCz4Qxnjk9LETau5dssv$$9hy_xTcNf2KvjtmrNmDkH": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql",
-      "T23lID7qPmwPnWlFJFMbO$$gnLAgvfpYT__0gBSD4-dB": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql"
+      "-DCz4Qxnjk9LETau5dssv$$9hy_xTcNf2KvjtmrNmDkH": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql"
     }
   },
   "processes": {
@@ -297,37 +296,6 @@
         ],
         "isCustomOutputSchema": false
       }
-    },
-    "T23lID7qPmwPnWlFJFMbO$$gnLAgvfpYT__0gBSD4-dB": {
-      "id": "T23lID7qPmwPnWlFJFMbO$$gnLAgvfpYT__0gBSD4-dB",
-      "component": "TargetModel",
-      "metadata": {
-        "label": "medium__m_ADC_GUEST_APPOINTMENT__main",
-        "x": 1250,
-        "y": 0,
-        "phase": 0
-      },
-      "properties": {
-        "customQueryDisabled": true,
-        "customQuery": false,
-        "incrementalEditorDisabled": true,
-        "query": "\nSELECT *\n\nFROM medium__m_ADC_GUEST_APPOINTMENT__main\n\n",
-        "isModel": true,
-        "incrementalKey": false,
-        "incremental": {
-          "expression": "true"
-        }
-      },
-      "ports": {
-        "inputs": [
-          {
-            "id": "IR64I3fed5nUYnBHCKL2u$$-FDmCy4dNTZMeWRTaiZuG",
-            "slug": "in"
-          }
-        ],
-        "outputs": [],
-        "isCustomOutputSchema": false
-      }
     }
   },
   "connections": [
@@ -358,14 +326,6 @@
       "sourcePort": "3mmqipE5NRHy1998e1m-c$$FriW7VIPdgTayu66YHUe7",
       "target": "3LzGYdWUNLx-sKTX6XEVf$$uz3WAq4DeN14VbqE-G2Vk",
       "targetPort": "ZJxqtsGwr7r6P87Z8Bf9g$$3UGIgRCQA2NGB9HMuC1Qs"
-    },
-    {
-      "id": "LxoZE1-MRgpDiUYWOFGJ-$$t24p5ndwE1AWpRdN14Ov7",
-      "source": "-DCz4Qxnjk9LETau5dssv$$9hy_xTcNf2KvjtmrNmDkH",
-      "sourcePort": "tj25yHe23VGrs2QiB4iak$$HTS8vbxzEvODfd9qhFrpT",
-      "target": "T23lID7qPmwPnWlFJFMbO$$gnLAgvfpYT__0gBSD4-dB",
-      "targetPort": "IR64I3fed5nUYnBHCKL2u$$-FDmCy4dNTZMeWRTaiZuG",
-      "isWireless": false
     }
   ],
   "component": "Pipeline"

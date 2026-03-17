@@ -16,8 +16,7 @@
       "S-pFVF3z5wDS2uVuTAP8N$$yHhb4UlrHCNekCXI-YUWF": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql",
       "3LzGYdWUNLx-sKTX6XEVf$$uz3WAq4DeN14VbqE-G2Vk": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql",
       "yuWS1R2NL5KvM-Wnthwko$$gOSH4LXl2rqtfAVN54Ru9": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql",
-      "-DCz4Qxnjk9LETau5dssv$$9hy_xTcNf2KvjtmrNmDkH": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql",
-      "T23lID7qPmwPnWlFJFMbO$$gnLAgvfpYT__0gBSD4-dB": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql"
+      "-DCz4Qxnjk9LETau5dssv$$9hy_xTcNf2KvjtmrNmDkH": "models/medium__m_ADC_GUEST_APPOINTMENT/medium__m_ADC_GUEST_APPOINTMENT__main.sql"
     }
   },
   "processes": {
@@ -36,8 +35,7 @@
           "S-pFVF3z5wDS2uVuTAP8N$$yHhb4UlrHCNekCXI-YUWF",
           "3LzGYdWUNLx-sKTX6XEVf$$uz3WAq4DeN14VbqE-G2Vk",
           "yuWS1R2NL5KvM-Wnthwko$$gOSH4LXl2rqtfAVN54Ru9",
-          "-DCz4Qxnjk9LETau5dssv$$9hy_xTcNf2KvjtmrNmDkH",
-          "T23lID7qPmwPnWlFJFMbO$$gnLAgvfpYT__0gBSD4-dB"
+          "-DCz4Qxnjk9LETau5dssv$$9hy_xTcNf2KvjtmrNmDkH"
         ],
         "type": "ephemeral",
         "isTemporaryTable": true
